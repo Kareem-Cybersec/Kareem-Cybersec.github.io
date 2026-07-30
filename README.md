@@ -14,7 +14,7 @@ Professional portfolio website showcasing cybersecurity expertise, services, and
 
 ## 🚀 Live Demo
 
-Visit the live site: `[https://kareem-cybersec.github.io/]`
+Visit the live site: https://kareem-cybersec.github.io/
 
 ## 📸 Screenshots
 
@@ -32,8 +32,8 @@ Visit the live site: `[https://kareem-cybersec.github.io/]`
 
 ## 📧 Contact
 
-Your Name - [kareemelhadad2006@gmail.com]
+Kareem Tamer - kareemelhadad2006@gmail.com
 
-Project Link: [https://kareem-cybersec.github.io/]
+Project Link: https://kareem-cybersec.github.io/
 
 ---
