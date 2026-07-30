@@ -16,10 +16,6 @@ Professional portfolio website showcasing cybersecurity expertise, services, and
 
 Visit the live site: https://kareem-cybersec.github.io/
 
-## 📸 Screenshots
-
-[Add screenshots of your portfolio here]
-
 ## 🛠️ Built With
 
 - HTML5
