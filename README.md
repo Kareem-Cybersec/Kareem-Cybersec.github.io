@@ -14,7 +14,7 @@ Professional portfolio website showcasing cybersecurity expertise, services, and
 
 ## 🚀 Live Demo
 
-Visit the live site: `https://your-username.github.io/your-repo-name`
+Visit the live site: `[https://kareem-cybersec.github.io/]`
 
 ## 📸 Screenshots
 
@@ -30,84 +30,10 @@ Visit the live site: `https://your-username.github.io/your-repo-name`
 - WOW.js (Animations)
 - Font Awesome Icons
 
-## 📦 Installation
-
-1. Fork this repository
-2. Clone to your local machine:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-3. Navigate to the project:
-```bash
-cd your-repo-name
-```
-
-4. Open `index.html` in your browser or use a local server
-
-## ⚙️ Customization
-
-### Update Your Information
-
-1. Open `index.html`
-2. Replace "Your Name Here" with your actual name
-3. Update the services, portfolio items, and testimonials
-4. Change social media links in the footer
-5. Update contact information
-
-### Change Images
-
-Replace the images in the `assets/` folder with your own:
-- `hero_main.png` - Main hero image
-- `about_main.png` - About section image
-- `portfolio_*.png` - Portfolio project images
-- `client_image_*.png` - Client testimonial photos
-- `logo.svg` - Your logo
-
-### Modify Colors
-
-The design uses Tailwind CSS. You can modify colors in the `assets/style.css` file.
-
-## 📱 GitHub Pages Deployment
-
-1. Go to your repository settings
-2. Navigate to "Pages" section
-3. Select "main" branch as source
-4. Save and wait a few minutes
-5. Your site will be live at `https://your-username.github.io/repo-name`
-
-## 📋 Sections
-
-- **Home** - Hero section with introduction
-- **About** - Your background and experience
-- **Services** - Cybersecurity services you offer
-- **Portfolio** - Showcase your projects
-- **Awards** - Recognition and certifications
-- **Testimonials** - Client reviews
-- **Contact** - Get in touch form
-
-## 🔧 Customization Tips
-
-1. **Personal Branding**: Replace all placeholder text with your information
-2. **Projects**: Add your actual security projects with descriptions
-3. **Skills**: Update the services to match your expertise
-4. **Social Links**: Add your social media profiles
-5. **Resume/CV**: Consider adding a download link for your resume
-
-## 📝 License
-
-This project is open source and available for personal and commercial use.
-
-## 🤝 Support
-
-If you like this portfolio template, please give it a ⭐️!
-
 ## 📧 Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [kareemelhadad2006@gmail.com]
 
-Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+Project Link: [https://kareem-cybersec.github.io/]
 
 ---
-
-Made with ❤️ for Cybersecurity Professionals
