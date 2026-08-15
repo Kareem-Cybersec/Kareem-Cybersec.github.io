@@ -2,16 +2,6 @@
 
 Professional portfolio website showcasing cybersecurity expertise, services, and projects.
 
-## 🌟 Features
-
-- **Responsive Design** - Works perfectly on all devices
-- **Modern UI** - Clean and professional cyber security theme
-- **Smooth Animations** - Eye-catching scroll animations
-- **Portfolio Showcase** - Display your security projects
-- **Services Section** - Highlight your cybersecurity offerings
-- **Testimonials** - Client reviews and feedback
-- **Contact Form** - Easy way for clients to reach you
-
 ## 🚀 Live Demo
 
 Visit the live site: https://kareem-cybersec.github.io/
